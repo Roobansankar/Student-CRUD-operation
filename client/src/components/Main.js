@@ -28,7 +28,7 @@ const Main = () => {
 
   return (
     <div className='container mt-5'>
-      <h1 style={{marginLeft:"350px"}}> STUDENT FORM</h1>
+      <h1 style={{marginLeft:"350px"}}> STUDENT MANAGEMENT SYSTEM</h1>
       <div className='text-end'>
         <Link to='/create' className='btn btn-primary'>Add+</Link>
       </div>
